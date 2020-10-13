@@ -13,5 +13,5 @@
 </p>
 <br>
 <p align="center">  
-  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecampossilva9&repo=fitcard" alt="guilhermecampossilva9"/></a>
+  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecampossilva9&repo=https://github.com/fitcard" alt="guilhermecampossilva9"/></a>
 </p>
