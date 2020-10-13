@@ -1,6 +1,6 @@
 # Guilherme-Campos
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-JulianaIzac">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <h2 align="left">Olá, meu nome é Guilherme Campos 👋🏽</h1>
 <p align=left>Sou desenvolvedor de apps na <strong>Fitcard</strong>.</p>
