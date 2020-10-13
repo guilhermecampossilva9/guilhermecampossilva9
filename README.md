@@ -14,5 +14,4 @@
 <br>
 <p align="center">  
   <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api?username=guilhermecampossilva9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="guilhermecampossilva9"/></a>
-  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampossilva9&layout=compact&theme=dracula"/></a>
 </p>
