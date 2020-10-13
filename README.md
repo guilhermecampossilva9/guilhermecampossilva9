@@ -2,7 +2,7 @@
 
 <h2 align="left">Olá, meu nome é Guilherme Campos 👋🏽</h1>
 <p align=left>Sou desenvolvedor de apps na <strong>Fitcard</strong>.</p>
-<p align="left">🚀 Skills: <strong>React Native - Angular JS - HTML5</strong></p>
+<p align="left">🚀 Skills: <strong>React Native - Angular JS - HTML5 - Javascript</strong></p>
 <p align="left">💌 Social networks: ⤵️</p>
 
 <p align="left">
