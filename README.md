@@ -13,5 +13,8 @@
 </p>
 <br>
 <p align="center">  
-  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api?username=guilhermecampossilva9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&orgs=fitcard" alt="guilhermecampossilva9"/></a>
+  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api?username=guilhermecampossilva9&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&orgs=fitcard&repo=app-valev1-refactored" alt="guilhermecampossilva9"/></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampossilva9)
+
