@@ -13,5 +13,5 @@
 </p>
 <br>
 <p align="center">  
-  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api?username=guilhermecampossilva9&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&orgs=fitcard&repo=fitcard/app-valev1-refactored" alt="guilhermecampossilva9"/></a>
+  <a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api?username=guilhermecampossilva9&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&repo=fork-app-sisatecv1-refactored" alt="guilhermecampossilva9"/></a>
 </p>
