@@ -12,6 +12,3 @@
   <a href="https://www.instagram.com/gguilhermecampos"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 <br>
-<p align="center">  
-  [<a href="https://github.com/guilhermecampossilva9"><img src="https://github-readme-stats.vercel.app/api?username=guilhermecampossilva9&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&repo=fork-app-sisatecv1-refactored" alt="guilhermecampossilva9"/></a>](url)
-</p>
